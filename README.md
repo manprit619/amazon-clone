@@ -2,8 +2,9 @@ Website: https://manprit619-ff11.web.app/
 
 Do create a new account.
 
-for eg: Email: manprit61@amazon.com
-        Password: 123456
+for eg try with the below details:
+Email: manprit61@amazon.com
+Password: 123456
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
