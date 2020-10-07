@@ -2,7 +2,7 @@ Website: https://manprit619-ff11.web.app/
 
 Do create a new account.
 
-for eg try with the below details:
+for eg try with the given details:
 Email: manprit61@amazon.com
 Password: 123456
 
