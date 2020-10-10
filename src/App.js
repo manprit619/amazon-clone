@@ -12,7 +12,7 @@ import { useStateValue } from "./StateProvider";
 import { auth } from "./firebase";
 
 function App() {
-  const [{ basket }, dispatch] = useStateValue();
+  const [{ basket }, dispatch] = useStateValue(); //pulling from the datalayer
 
   // use Effect << very powerful
   // run a piece of code which runs based on a given condition
